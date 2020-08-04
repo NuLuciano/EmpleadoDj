@@ -3,3 +3,5 @@ desde la pc local
 
 
 cambios en mimsmo archivo desde local
+
+cambios que se hacen en mismo archivo
